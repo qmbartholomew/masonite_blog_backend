@@ -1,0 +1,51 @@
+2021-12-03 19:05:14 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-03 19:05:14 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-03 19:05:14 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-03 19:05:14 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-03 19:05:14 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-03 19:05:14 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-03 19:05:14 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-03 19:15:49 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-03 19:15:49 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-03 19:15:49 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-03 19:15:49 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-03 19:15:49 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-03 19:15:49 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-03 19:15:49 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-03 19:28:16 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-03 19:28:16 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-03 19:28:16 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-03 19:28:16 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-03 19:28:16 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-03 19:28:16 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-03 19:28:16 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-03 19:29:13 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-03 19:29:13 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-03 19:29:13 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-03 19:29:13 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-03 19:29:13 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-03 19:29:13 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-03 19:29:13 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-03 19:39:48 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-03 19:39:48 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-03 19:39:48 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-03 19:39:48 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-03 19:39:48 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-03 19:39:48 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-03 19:39:48 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-03 19:39:48 - INFO - "GET /blog HTTP/1.1" 200 601
+2021-12-03 19:39:48 - INFO - "GET /blog/1 HTTP/1.1" 200 144
+2021-12-03 19:50:22 - ERROR - InvalidCSRFToken in 0 on line 0
+2021-12-03 19:50:22 - ERROR - "POST /blog HTTP/1.1" 500 965835
+2021-12-03 19:50:41 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-03 19:50:41 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-03 19:50:41 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-03 19:50:41 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-03 19:50:41 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-03 19:50:41 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-03 19:50:41 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-03 19:50:41 - INFO - "POST /blog HTTP/1.1" 200 155
+2021-12-03 19:50:41 - WARNING - "PUT /blog HTTP/1.1" 405 1554
+2021-12-03 19:50:41 - INFO - "PUT /blog/5 HTTP/1.1" 200 158
+2021-12-03 19:50:41 - INFO - "DELETE /blog/5 HTTP/1.1" 200 158
+2021-12-03 19:50:41 - INFO - "GET /blog HTTP/1.1" 200 601
